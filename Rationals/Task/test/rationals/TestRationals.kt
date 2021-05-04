@@ -3,7 +3,7 @@ package rationals
 import org.junit.Assert
 import org.junit.Test
 import rationals.TestRationals.ComparisonOperation.*
-import rationals.Rational.*
+
 class TestRationals {
 
     private fun testNormalizedForm(rational: String, normalizedForm: String) {
