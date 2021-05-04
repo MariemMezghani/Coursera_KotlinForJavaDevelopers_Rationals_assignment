@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6a15c48-08fd-43f4-937b-3d8d613d7b08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1s28DKezRcBHK0O3Li8vUZOYItE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestRationals.test0Sample1Sum">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRationals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_for_Java_Developers._Week_4.Rationals-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rationals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rationals" />
+      <option name="MAIN_CLASS_NAME" value="rationals.TestRationals" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRationals.test0Sample1Sum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_for_Java_Developers._Week_4.Rationals-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rationals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rationals" />
+      <option name="MAIN_CLASS_NAME" value="rationals.TestRationals" />
+      <option name="METHOD_NAME" value="test0Sample1Sum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRationals.test0Sample8Comparison" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_for_Java_Developers._Week_4.Rationals-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rationals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rationals" />
+      <option name="MAIN_CLASS_NAME" value="rationals.TestRationals" />
+      <option name="METHOD_NAME" value="test0Sample8Comparison" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRationals.test0Sample9InRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_for_Java_Developers._Week_4.Rationals-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rationals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rationals" />
+      <option name="MAIN_CLASS_NAME" value="rationals.TestRationals" />
+      <option name="METHOD_NAME" value="test0Sample9InRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRationals.test0Sample1Sum" />
+        <item itemvalue="JUnit.TestRationals.test0Sample9InRange" />
+        <item itemvalue="JUnit.TestRationals.test0Sample8Comparison" />
+        <item itemvalue="JUnit.TestRationals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6a15c48-08fd-43f4-937b-3d8d613d7b08" name="Default Changelist" comment="" />
+      <created>1620059202311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620059202311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1871" height="274" key="GridCell.Tab.0.bottom" timestamp="1620063417268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620059641050" />
+    <state width="1871" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620063417268" />
+    <state width="1871" height="274" key="GridCell.Tab.0.center" timestamp="1620063417268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620059641050" />
+    <state width="1871" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620063417268" />
+    <state width="1871" height="274" key="GridCell.Tab.0.left" timestamp="1620063417268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620059641050" />
+    <state width="1871" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620063417268" />
+    <state width="1871" height="274" key="GridCell.Tab.0.right" timestamp="1620063417268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620059641050" />
+    <state width="1871" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620063417268" />
+  </component>
+</project>
