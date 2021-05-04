@@ -1,5 +1,4 @@
 package rationals
-
 import org.junit.Assert
 import org.junit.Test
 import rationals.TestRationals.ComparisonOperation.*
